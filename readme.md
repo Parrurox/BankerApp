@@ -32,18 +32,6 @@ pin: 2222_
 
 ---
 
-_owner: 'Shubham Mamgain',
-username : SM,
-pin: 3333_
-
----
-
-_owner: 'Swapnil Sarkar',
-username : SS,
-pin: 4444_
-
----
-
 ## Working :
 
 ![Alt text](Bankist-flowchart.png)
